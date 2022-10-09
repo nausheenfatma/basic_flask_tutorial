@@ -22,7 +22,7 @@ $ python3 helloflask.py
 2. http://127.0.0.1:5000/hello prints hello message 
 ![Alt text](snippets/hello.png)
 
-3. http://127.0.0.1:5000/hello/<name> prints hello message with variable name. 
+3. http://127.0.0.1:5000/hello/nausheen prints hello message with URL variable. 
 ![Alt text](snippets/hellonausheen.png)
 
 4. http://127.0.0.1:5000/hellopage renders an html page instead of msg
