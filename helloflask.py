@@ -11,7 +11,7 @@ app = Flask(__name__)
 # the associated function.
 
 @app.route('/')
-# ‘/’ URL is bound with hello_world() function.
+# ‘/’ URL is bound with welcome() function.
 #http://127.0.0.1:5000 prints welcome message
 def welcome():
     return 'Hello Flask! This is the home page'
