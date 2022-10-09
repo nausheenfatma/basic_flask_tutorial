@@ -1,25 +1,37 @@
 # basic_flask_tutorial
-This is a project to learn and implement basic web development in python using flask and run on localhost
+This is a project to learn and implement basic web development in python using flask and run on localhost.
+This tutorial was followed to build this project: https://www.tutorialspoint.com/flask/
 
-run the following commands:
+## Run the following commands:
 
-goto root directory:
+Goto root directory:
 
 ```
 $ cd basic_flask_tutorial
 $ python3 helloflask.py
 ```
 
-Try the following on the web browser:
+![Alt text](snippets/flask_command_line.png)
 
-http://127.0.0.1:5000 
 
-http://127.0.0.1:5000/hello
+## Try the following URL options on the web browser:
 
-http://127.0.0.1:5000/hello/naus
+1. http://127.0.0.1:5000 prints welcome message
+![Alt text](snippets/root.png)
 
-http://127.0.0.1:5000/hellopage
+2. http://127.0.0.1:5000/hello prints hello message 
+![Alt text](snippets/hello.png)
 
-http://127.0.0.1:5000/userinfo
+3. http://127.0.0.1:5000/hello/<name> prints hello message with variable name. 
+![Alt text](snippets/hellonausheen.png)
 
- http://127.0.0.1:5000/upload
+4. http://127.0.0.1:5000/hellopage renders an html page instead of msg
+![Alt text](snippets/hellopage.png)
+
+5. http://127.0.0.1:5000/userinfo is a form to take user input and display after submit to next page
+![Alt text](snippets/userinfo.png)
+![Alt text](snippets/showinfo.png)
+
+6. File uploads example: http://127.0.0.1:5000/upload page to upload a file. 
+![Alt text](snippets/upload.png)
+![Alt text](snippets/uploader.png)
