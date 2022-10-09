@@ -50,4 +50,4 @@ http://127.0.0.1:5000/hellopage renders an html pagefound in templates/hellopage
 ![Alt text](snippets/upload.png)
 ![Alt text](snippets/uploader.png)
 
-## Voila. Congratulations on learning how to run flask locally
+Voila! Congratulations on learning how to run flask locally!
