@@ -2,19 +2,19 @@
 This is a project to learn and implement basic web development in python using flask and run on localhost.
 This page was followed to build this tutorial: https://www.tutorialspoint.com/flask/
 
-## Install flask
+## 1. Install flask
 
 ```
 pip3 install flask
 ```
 
-## Clone this repo
+## 2. Clone this repo
 
 ```
 git clone https://github.com/nausheenfatma/basic_flask_tutorial.git
 ```
 
-## Run the following commands:
+## 3. Run the following commands:
 
 Goto root directory:
 
@@ -27,7 +27,7 @@ If the command runs successfully, it should look like this:
 ![Alt text](snippets/flask_command_line.png)
 
 
-## Try the following URL options on the localhost on a web browser:
+## 4. Try the following URL options on the localhost on a web browser:
 
 1. http://127.0.0.1:5000 prints welcome message
 ![Alt text](snippets/root.png)
