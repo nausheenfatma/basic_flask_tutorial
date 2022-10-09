@@ -8,6 +8,12 @@ This page was followed to build this tutorial: https://www.tutorialspoint.com/fl
 pip3 install flask
 ```
 
+## Clone this repo
+
+```
+git clone https://github.com/nausheenfatma/basic_flask_tutorial.git
+```
+
 ## Run the following commands:
 
 Goto root directory:
