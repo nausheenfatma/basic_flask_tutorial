@@ -2,6 +2,12 @@
 This is a project to learn and implement basic web development in python using flask and run on localhost.
 This page was followed to build this tutorial: https://www.tutorialspoint.com/flask/
 
+## Install flask
+
+```
+pip3 install flask
+```
+
 ## Run the following commands:
 
 Goto root directory:
@@ -11,6 +17,7 @@ $ cd basic_flask_tutorial
 $ python3 helloflask.py
 ```
 
+If the command runs successfully, it should look like this:
 ![Alt text](snippets/flask_command_line.png)
 
 
