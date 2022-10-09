@@ -21,7 +21,7 @@ If the command runs successfully, it should look like this:
 ![Alt text](snippets/flask_command_line.png)
 
 
-## Try the following URL options on the web browser:
+## Try the following URL options on the localhost on a web browser:
 
 1. http://127.0.0.1:5000 prints welcome message
 ![Alt text](snippets/root.png)
