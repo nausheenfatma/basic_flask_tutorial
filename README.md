@@ -49,3 +49,5 @@ http://127.0.0.1:5000/hellopage renders an html pagefound in templates/hellopage
 6. File uploads example: http://127.0.0.1:5000/upload page to upload a file. 
 ![Alt text](snippets/upload.png)
 ![Alt text](snippets/uploader.png)
+
+## Voila. Congratulations on learning how to run flask locally
