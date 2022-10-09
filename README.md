@@ -25,7 +25,8 @@ $ python3 helloflask.py
 3. http://127.0.0.1:5000/hello/nausheen prints hello message with URL variable. 
 ![Alt text](snippets/hellonausheen.png)
 
-4. http://127.0.0.1:5000/hellopage renders an html page instead of msg
+4. Till now the messages were rendering from python return statements 
+http://127.0.0.1:5000/hellopage renders an html pagefound in templates/hellopage.html instead of strings returned from python
 ![Alt text](snippets/hellopage.png)
 
 5. http://127.0.0.1:5000/userinfo is a form to take user input and display after submit to next page
