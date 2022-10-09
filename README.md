@@ -1,6 +1,6 @@
 # basic_flask_tutorial
 This is a project to learn and implement basic web development in python using flask and run on localhost.
-This tutorial was followed to build this project: https://www.tutorialspoint.com/flask/
+This page was followed to build this tutorial: https://www.tutorialspoint.com/flask/
 
 ## Run the following commands:
 
