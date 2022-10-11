@@ -2,6 +2,8 @@
 This is a project to learn and implement basic web development in python using flask and run on localhost.
 This page was followed to build this tutorial: https://www.tutorialspoint.com/flask/
 
+In this tutorial, we will learn how to run helloflask.py app written in python on a local web browser.
+
 ## 1. Install flask
 
 ```
