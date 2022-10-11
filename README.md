@@ -54,7 +54,7 @@ Voila! Congratulations on learning how to run flask locally!
 
 ## 5. Running flask for production
 
-If you notice that running the flask app gives a warning:
+Wait, we are not done yet! If you notice that running the flask app gives a warning:
 WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
 
 
